@@ -9,4 +9,4 @@ NL:
   ESMR5 smartmeter interface for:
     Electricity monitor
     Gas monitor
-  
+    5V 250mA that powers multiple LED lights for presence simulation
